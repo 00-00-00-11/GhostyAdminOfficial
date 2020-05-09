@@ -1,0 +1,6 @@
+{
+    "require": {
+        "hcgcloud/pterodactyl-sdk": "^1.0"
+    }
+    
+}
