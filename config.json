@@ -1,0 +1,11 @@
+{
+	"token": "Your token",
+    "prefix": "+",
+    "embedFOOTER": "A Project By GhostyHosting", 
+    "db": "db name",
+    "dbuser": "db user",
+    "dbpass": "db pass",
+    "dbhost": "db host",
+    "dbport": "db port",
+    "register": "Register Page"
+}
