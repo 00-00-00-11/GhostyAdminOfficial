@@ -9,7 +9,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ryder",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.2.0",
